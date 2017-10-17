@@ -7,4 +7,4 @@ Develop a card game with Java by using SWING for the graph interface and Socket 
 
 And we should consider the problem of concurrence.
 
-Please refer to 'Set description.pdf' and 'report-Set.pdf' for more details.
+Please refer to 'Set description.pdf' and 'rapport-Set.pdf' for more details.
